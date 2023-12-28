@@ -1,0 +1,7 @@
+data/
+*paimblotin*
+*roseplatine*
+BOOT
+LOGS
+SHUT
+docker-compose.yml
